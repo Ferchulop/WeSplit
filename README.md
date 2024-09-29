@@ -6,3 +6,4 @@ WeSplit es una app desarrollada en SwiftUI que permite a los usuarios calcular l
 - División por Persona: La aplicación muestra cuánto debe pagar cada persona, facilitando la gestión de las cuentas grupales.
 - Uso de modificador @FocusState para manejar el enfoque del teclado, .toolbar para añadir confirmación en la barra de herramientas, Textfield junto a .currency para mostrar valor ingresado en una cantidad monetaria para el desarrollo de la app.
   
+![Simulator Screen Recording - iPhone 16 Pro - 2024-09-30 at 00 19 58](https://github.com/user-attachments/assets/4598b2da-b082-42c8-8f01-9d1c4fcd1eec)
